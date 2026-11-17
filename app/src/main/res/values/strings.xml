@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">School Market</string>
+    <string name="web_loading">Loading School Black Market…</string>
+    <string name="web_error_title">Unable to load page</string>
+    <string name="web_error_desc">Check your internet connection and try again.</string>
+    <string name="web_retry">Retry</string>
+    <string name="web_refresh">Reload</string>
+    <string name="web_open_in_browser">Open in browser</string>
+</resources>
